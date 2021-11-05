@@ -1,9 +1,9 @@
 {
-    "client_secret":"",
-    "client_id":"",
+    "client_secret":"0N8V9F-U6QRpqK9Am1XO6QTiz10W4OD3",
+    "client_id":"904913518032203856",
     "redirect_uri":"https://lexusverification.herokuapp.com/verify",
     "google_secret":"6LfVLBcdAAAAAN5zy7pHExQPJk9kr342NHC-AIpn",
-    "bot_token":"",
-    "guild_id":"",
-    "verifiedRole_id":""
+    "bot_token":"OTA0OTEzNTE4MDMyMjAzODU2.YYCcYw.YDJTFrlDu5NrO6uMl0kR9jXAHZ8",
+    "guild_id":"791338856154791968",
+    "verifiedRole_id":"814909961896198195"
 }
