@@ -1,0 +1,9 @@
+{
+    "client_secret":"",
+    "client_id":"",
+    "redirect_uri":"https://lexusverification.herokuapp.com/verify",
+    "google_secret":"6LfVLBcdAAAAAN5zy7pHExQPJk9kr342NHC-AIpn",
+    "bot_token":"",
+    "guild_id":"",
+    "verifiedRole_id":""
+}
